@@ -15,7 +15,7 @@ import Login from './components/Login.jsx';
 import Home from './components/Home.jsx';
 
 import Logout from './components/Logout.jsx';
-import ErrorPage from './components/ErrorPage.jsx';
+import ErrorPage from './ErrorPage.jsx';
 
 
 
