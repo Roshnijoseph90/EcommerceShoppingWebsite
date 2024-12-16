@@ -13,8 +13,9 @@ import Root from './routes/Root.jsx';
 import Products from './components/Products.jsx';
 import Login from './components/Login.jsx';
 import Home from './components/Home.jsx';
-import ErrorPage from './ErrorPage.jsx';
+
 import Logout from './components/Logout.jsx';
+import ErrorPage from './components/ErrorPage.jsx';
 
 
 
